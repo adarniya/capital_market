@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # capital_market
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# capital_market
+>>>>>>> 05044bce599b4817eedf1e1eb8e5fae145303e7e
