@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "669890937218",
+    "project_id": "portfolio-67419",
+    "storage_bucket": "portfolio-67419.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669890937218:android:b85660a6801f5f00d8cf9b",
+        "android_client_info": {
+          "package_name": "com.example.capital_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669890937218-nkli2bfsld7i6snomchujm9vev87o644.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW9liFKfGwwV6NVJoDn8BWG3W2875577Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669890937218-nkli2bfsld7i6snomchujm9vev87o644.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669890937218-2imti34140l7oaa3rfps3nm4p5o662fo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartTrade"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669890937218:android:653cd5dbadb06c59d8cf9b",
+        "android_client_info": {
+          "package_name": "com.example.smart_trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669890937218-1q58va63sfb5gajsodi6kk70m7evtr16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_trade",
+            "certificate_hash": "7404c8b12592cf6d9489fc5972056750be1bf7d7"
+          }
+        },
+        {
+          "client_id": "669890937218-nkli2bfsld7i6snomchujm9vev87o644.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW9liFKfGwwV6NVJoDn8BWG3W2875577Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669890937218-nkli2bfsld7i6snomchujm9vev87o644.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669890937218-2imti34140l7oaa3rfps3nm4p5o662fo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartTrade"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669890937218:android:4087ebabd3d2d576d8cf9b",
+        "android_client_info": {
+          "package_name": "com.example.stock_loan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669890937218-nkli2bfsld7i6snomchujm9vev87o644.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW9liFKfGwwV6NVJoDn8BWG3W2875577Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669890937218-nkli2bfsld7i6snomchujm9vev87o644.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669890937218-2imti34140l7oaa3rfps3nm4p5o662fo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartTrade"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
